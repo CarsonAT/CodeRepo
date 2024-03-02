@@ -6,3 +6,5 @@ some examples of little projects to just keep myself on track and refine my abil
 
 I plan to try and update this with every assignment I get or any
 new project I think about creating. If it's large enough Ill make another repo for it instead with perhaps a link to it but Ill find out. 
+
+Might work on some docker files to support running it with docker, but Ill need to get more familiar with docker to utilize it properly. 
