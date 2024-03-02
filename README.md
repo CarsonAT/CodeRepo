@@ -1,6 +1,6 @@
 # Welcome to my personal repo
 
-This is a private repo just used to store some personal projects that I'm working on
+This is a private repo just used to store some personal projects that I'm working on.
 It contains just come class stuff Ive worked on previously and 
 some examples of little projects to just keep myself on track and refine my abilities. 
 
