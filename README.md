@@ -1,5 +1,8 @@
 # Welcome to my personal repo
 
+[JUST KNOW THIS IS UNDER CONSTRUCTION]
+Trying to make it more readable and had an issue with corruption in transferring the files. 
+
 This is a private repo just used to store some personal projects that I'm working on.
 It contains just come class stuff Ive worked on previously and 
 some examples of little projects to just keep myself on track and refine my abilities. 
